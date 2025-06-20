@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![TrackPeek Logo](https://via.placeholder.com/400x200/000000/00ff41?text=TrackPeek)
+![Website Preview](./TrackPeek.png)
 
 **Advanced Digital Reconnaissance Platform**
 
